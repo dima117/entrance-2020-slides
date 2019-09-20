@@ -4,6 +4,8 @@ layout: yandex2
 
 style: |
     /* собственные стили можно писать здесь!! */
+    
+    .xxx {height: 1120px;margin: 0 auto;}
 
 
 ---
@@ -37,8 +39,7 @@ style: |
 ## Что нужно сделать
 {:.fullscreen}
 
-![](pictures/0.png)
-
+![](pictures/0.png){:.xxx}
 
 ## Название раздела
 {:.section}
