@@ -11,7 +11,7 @@ default_lang: en
 default_body_class: list
 
 presentation:
-    title: Задание 3 найти ошибки
+    title: Задание 3&#58; найти ошибки
     service: ШРИ
     nda: false
     lang: ru            # ru, en
