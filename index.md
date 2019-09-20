@@ -41,6 +41,9 @@ style: |
 
 ![](pictures/0.png){:.xxx}
 
+## [Webview API](https://code.visualstudio.com/api/extension-guides/webview)<br/><br/>[Language Server](https://code.visualstudio.com/api/language-extensions/language-server-extension-guide)
+{:.shout}
+
 ## Название раздела
 {:.section}
 
