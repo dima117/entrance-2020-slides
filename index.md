@@ -44,7 +44,35 @@ style: |
 ## [Webview API](https://code.visualstudio.com/api/extension-guides/webview)<br/><br/>[Language Server](https://code.visualstudio.com/api/language-extensions/language-server-extension-guide)
 {:.shout}
 
-## Название раздела
+## Пробуем запустить
+{:.section}
+
+## Неправильное название команды
+{:.fullscreen}
+
+![](pictures/2.1.1.png){:.xxx}
+
+## Неправильное название команды
+{:.fullscreen}
+
+![](pictures/2.1.2.png){:.xxx}
+
+## Ошибка в тайпингах
+{:.fullscreen}
+
+![](pictures/2.2.1.png){:.xxx}
+
+## Ошибка в тайпингах
+{:.fullscreen}
+
+![](pictures/2.2.2.png){:.xxx}
+
+## Ошибка в тайпингах
+{:.fullscreen}
+
+![](pictures/2.2.3.png){:.xxx}
+
+## Чиним превью
 {:.section}
 
 ### Верхний колонтитул
