@@ -62,7 +62,7 @@ style: |
 
 ![](pictures/run-01.png)
 
-## Cannot find module './out/extension.js'.
+## Cannot find module 'out/extension.js'.
 {:.blockquote}
 
 ## Ошибка в тайпингах
