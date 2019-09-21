@@ -190,7 +190,7 @@ style: |
 - jsonMain.ts
 - hash.ts
 
-<div class="next">
+<div class="next" markdown="1">
 Лишние зависимости:
     
 - request-light
