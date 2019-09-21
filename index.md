@@ -41,6 +41,13 @@ style: |
 
 ![](pictures/0.png){:.xxx}
 
+## Что в репозитории
+
+- {:.next}[TypeScript](https://www.typescriptlang.org/docs/home.html)
+- {:.next}[json-to-ast](https://www.npmjs.com/package/json-to-ast)
+- {:.next}точка входа — extension.ts
+- {:.next}настройки — package.json
+
 ## [Webview API](https://code.visualstudio.com/api/extension-guides/webview)<br/><br/>[Language Server](https://code.visualstudio.com/api/language-extensions/language-server-extension-guide)
 {:.shout}
 
