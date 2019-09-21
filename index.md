@@ -167,7 +167,7 @@ style: |
 
 ![](pictures/linter-01.png)
 
-## DEMO:<br/>Debugging Language Server
+## DEMO: Debugging<br/>Language Server
 {:.shout}
 
 ## Пустой список ошибок
