@@ -91,6 +91,25 @@ style: |
 ## Чиним превью
 {:.section}
 
+## Ошибка в CSP
+{:.fullscreen .xxx}
+
+![](pictures/preview-01.png)
+
+## Ошибка в CSP
+{:.fullscreen .xxx}
+
+![](pictures/preview-02.png)
+
+## [Content Security Policy](https://developer.mozilla.org/ru/docs/Web/HTTP/CSP)
+{:.shout}
+
+## Ошибка в CSP
+{:.fullscreen .xxx}
+
+![](pictures/preview-03.png)
+
+
 ## Длинная цитата переносится на несколько строк
 {:.blockquote}
 
