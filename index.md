@@ -170,6 +170,16 @@ style: |
 ## DEMO:<br/>Debugging Language Server
 {:.shout}
 
+## Пустой список ошибок
+{:.fullscreen .xxx}
+
+![](pictures/linter-02.png)
+
+## Пустой список ошибок
+{:.fullscreen .xxx}
+
+![](pictures/linter-03.png)
+
 ## Длинная цитата переносится на несколько строк
 {:.blockquote}
 
