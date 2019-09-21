@@ -5,7 +5,7 @@ layout: yandex2
 style: |
     /* собственные стили можно писать здесь!! */
     
-    .xxx {background-color: #666;}
+    .xxx {background-color: #555;}
     .xxx img {height: 1120px;margin: 0 auto;}
     .slide.blockquote.yyy h2 {font-size: 95px;}
     .slide.blockquote.yyy>div {right:100px;}
