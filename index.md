@@ -7,7 +7,8 @@ style: |
     
     .xxx {background-color: #999;}
     .xxx img {height: 1120px;margin: 0 auto;}
-    .slide.blockquote.yyy h2 {font-size: 90px;}
+    .slide.blockquote.yyy h2 {font-size: 100px;}
+    .slide.blockquote.yyy>div {right:120px;}
 
 
 ---
