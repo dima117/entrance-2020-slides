@@ -5,7 +5,8 @@ layout: yandex2
 style: |
     /* собственные стили можно писать здесь!! */
     
-    .xxx {height: 1120px;margin: 0 auto;}
+    .xxx {background-color: #999;}
+    .xxx img {height: 1120px;margin: 0 auto;}
 
 
 ---
@@ -37,9 +38,9 @@ style: |
 {:.blockquote}
 
 ## Что нужно сделать
-{:.fullscreen}
+{:.fullscreen .xxx}
 
-![](pictures/0.png){:.xxx}
+![](pictures/0.png)
 
 ## Что в репозитории
 
@@ -55,40 +56,38 @@ style: |
 {:.section}
 
 ## Сообщения об ошибках
-{:.fullscreen}
+{:.fullscreen .xxx}
 
-![](pictures/run-01.png){:.xxx}
+![](pictures/run-01.png)
 
 ## Cannot find module '/Users/dima117a/projects/tmp/task-3/out/extension.js'.
 {:.blockquote}
 
 ## Ошибка в тайпингах
-{:.fullscreen}
+{:.fullscreen .xxx}
 
-![](pictures/run-02.png){:.xxx}
+![](pictures/run-02.png)
 
 ## Ошибка в тайпингах
-{:.fullscreen}
+{:.fullscreen .xxx}
 
-![](pictures/run-03.png){:.xxx}
+![](pictures/run-03.png)
 
 ## Menu item references a command 'example.showPreviewToSide' which is not defined in the 'commands' section.
 {:.blockquote}
 
 ## Неправильное название команды
-{:.fullscreen}
+{:.fullscreen .xxx}
 
-![](pictures/run-04.png){:.xxx}
+![](pictures/run-04.png)
 
 ## Запустилось!
-{:.fullscreen}
+{:.fullscreen .xxx}
 
-![](pictures/run-05.png){:.xxx}
+![](pictures/run-05.png)
 
 ## Чиним превью
 {:.section}
-
-### Верхний колонтитул
 
 ## Длинная цитата переносится на несколько строк
 {:.blockquote}
