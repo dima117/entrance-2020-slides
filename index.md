@@ -124,6 +124,25 @@ style: |
 
 ![](pictures/preview-06.png)
 
+## Ошибка в стилях
+{:.fullscreen .xxx}
+
+![](pictures/preview-07.png)
+
+## Ошибка в стилях
+{:.fullscreen .xxx}
+
+![](pictures/preview-08.png)
+
+## Ошибка в стилях
+{:.fullscreen .xxx}
+
+![](pictures/preview-09.png)
+
+## Чиним линтер
+{:.section}
+
+
 ## Длинная цитата переносится на несколько строк
 {:.blockquote}
 
