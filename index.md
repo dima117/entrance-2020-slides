@@ -7,6 +7,7 @@ style: |
     
     .xxx {background-color: #999;}
     .xxx img {height: 1120px;margin: 0 auto;}
+    .slide.blockquote.yyy h2 {font-size: 90px;}
 
 
 ---
@@ -60,7 +61,7 @@ style: |
 
 ![](pictures/run-01.png)
 
-## Cannot find module '/Users/dima117a/projects/tmp/task-3/out/extension.js'.
+## Cannot find module './out/extension.js'.
 {:.blockquote}
 
 ## Ошибка в тайпингах
@@ -73,8 +74,8 @@ style: |
 
 ![](pictures/run-03.png)
 
-## Menu item references a command 'example.showPreviewToSide' which is not defined in the 'commands' section.
-{:.blockquote}
+## Menu item references a command<br/>'example.showPreviewToSide'<br/>which is not defined<br/>in the 'commands' section.
+{:.blockquote .yyy}
 
 ## Неправильное название команды
 {:.fullscreen .xxx}
