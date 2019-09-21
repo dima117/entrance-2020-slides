@@ -195,6 +195,7 @@ style: |
     
 - request-light
 - vscode-nls
+
 </div>
 
 ## Обоснованные решения
