@@ -109,6 +109,20 @@ style: |
 
 ![](pictures/preview-03.png)
 
+## Неправильный путь
+{:.fullscreen .xxx}
+
+![](pictures/preview-04.png)
+
+## Неправильный путь
+{:.fullscreen .xxx}
+
+![](pictures/preview-05.png)
+
+## Неправильный путь
+{:.fullscreen .xxx}
+
+![](pictures/preview-06.png)
 
 ## Длинная цитата переносится на несколько строк
 {:.blockquote}
