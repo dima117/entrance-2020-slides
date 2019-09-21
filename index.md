@@ -162,6 +162,13 @@ style: |
 ## Чиним линтер
 {:.section}
 
+## Как запускается линтер
+{:.fullscreen .xxx}
+
+![](pictures/linter-01.png)
+
+## DEMO:<br/>Debugging Language Server
+{:.shout}
 
 ## Длинная цитата переносится на несколько строк
 {:.blockquote}
