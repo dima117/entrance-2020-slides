@@ -54,30 +54,36 @@ style: |
 ## Пробуем запустить
 {:.section}
 
+## Сообщения об ошибках
+{:.fullscreen}
+
+![](pictures/run-01.png){:.xxx}
+
+## Cannot find module '/Users/dima117a/projects/tmp/task-3/out/extension.js'.
+{:.blockquote}
+
+## Ошибка в тайпингах
+{:.fullscreen}
+
+![](pictures/run-02.png){:.xxx}
+
+## Ошибка в тайпингах
+{:.fullscreen}
+
+![](pictures/run-03.png){:.xxx}
+
+## Menu item references a command 'example.showPreviewToSide' which is not defined in the 'commands' section.
+{:.blockquote}
+
 ## Неправильное название команды
 {:.fullscreen}
 
-![](pictures/2.1.1.png){:.xxx}
+![](pictures/run-04.png){:.xxx}
 
-## Неправильное название команды
+## Запустилось!
 {:.fullscreen}
 
-![](pictures/2.1.2.png){:.xxx}
-
-## Ошибка в тайпингах
-{:.fullscreen}
-
-![](pictures/2.2.1.png){:.xxx}
-
-## Ошибка в тайпингах
-{:.fullscreen}
-
-![](pictures/2.2.2.png){:.xxx}
-
-## Ошибка в тайпингах
-{:.fullscreen}
-
-![](pictures/2.2.3.png){:.xxx}
+![](pictures/run-05.png){:.xxx}
 
 ## Чиним превью
 {:.section}
