@@ -195,6 +195,26 @@ style: |
 
 ![](pictures/linter-06.png)
 
+## Не применяются настройки после обновления
+{:.fullscreen .xxx}
+
+![](pictures/linter-07.png)
+
+## Не применяются настройки после обновления
+{:.fullscreen .xxx}
+
+![](pictures/linter-08.png)
+
+## Не применяются настройки после обновления
+{:.fullscreen .xxx}
+
+![](pictures/linter-09.png)
+
+## Не применяются настройки после обновления
+{:.fullscreen .xxx}
+
+![](pictures/linter-10.png)
+
 ## Другие критерии
 {:.section}
 
