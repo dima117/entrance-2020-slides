@@ -180,6 +180,21 @@ style: |
 
 ![](pictures/linter-03.png)
 
+## Не исчезает последняя ошибка
+{:.fullscreen .xxx}
+
+![](pictures/linter-04.png)
+
+## Не исчезает последняя ошибка
+{:.fullscreen .xxx}
+
+![](pictures/linter-05.png)
+
+## Не исчезает последняя ошибка
+{:.fullscreen .xxx}
+
+![](pictures/linter-06.png)
+
 ## Другие критерии
 {:.section}
 
