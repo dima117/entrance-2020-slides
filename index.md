@@ -109,15 +109,24 @@ style: |
 
 ![](pictures/preview2-03.png)
 
+## Отладка Webview
+{:.fullscreen .xxx}
+
+![](pictures/preview-01.png)
+
+## URL SCHEME
+{:.fullscreen .xxx}
+
+![](pictures/preview2-04.png)
+
+## URL SCHEME
+{:.fullscreen .xxx}
+
+![](pictures/preview2-05.png)
 
 
 ## =====================
 {:.section}
-
-## Ошибка в CSP
-{:.fullscreen .xxx}
-
-![](pictures/preview-01.png)
 
 ## Ошибка в CSP
 {:.fullscreen .xxx}
