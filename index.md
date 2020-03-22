@@ -191,10 +191,6 @@ style: |
 
 ![](pictures/linter-06.png)
 
-## =====================
-{:.section}
-
-
 ## Другие критерии
 {:.section}
 
