@@ -258,7 +258,7 @@ style: |
 ### {{ site.author.name }}
 
 {% if site.author.position %}
-{{ site.author.position }}, Яндекс.Директ
+{{ site.author.position }}
 {% endif %}
 
 </figure>
