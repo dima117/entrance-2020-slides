@@ -60,7 +60,7 @@ style: |
 ## Сообщения об ошибках
 {:.fullscreen .xxx}
 
-![](pictures/001-build-errors.png)
+![](pictures/run2-00.png)
 
 ## Types of property 'textDocumentSync' are incompatible.
 {:.blockquote}
