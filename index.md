@@ -153,8 +153,15 @@ style: |
 
 ![](pictures/linter-01.png)
 
-## DEMO: Debugging<br/>Language Server
-{:.shout}
+## Debugging Language Server
+{:.fullscreen .xxx}
+
+![](pictures/debug-01.png)
+
+## Debugging Language Server
+{:.fullscreen .xxx}
+
+![](pictures/debug-02.png)
 
 ## Ошибка парсинга JSON
 {:.fullscreen .xxx}
