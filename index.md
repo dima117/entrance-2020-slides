@@ -60,10 +60,39 @@ style: |
 ## Сообщения об ошибках
 {:.fullscreen .xxx}
 
-![](pictures/run-01.png)
+![](pictures/001-build-errors.png)
 
-## Cannot find module 'out/extension.js'.
+## Types of property 'textDocumentSync' are incompatible.
 {:.blockquote}
+
+## Сообщения об ошибках
+{:.fullscreen .xxx}
+
+![](pictures/run2-01.png)
+
+## [TextDocumentSyncKind](https://microsoft.github.io/language-server-protocol/specification)
+{:.shout}
+
+## Property 'loc' does not exist on type 'AstIdentifier'.
+{:.blockquote}
+
+## Сообщения об ошибках
+{:.fullscreen .xxx}
+
+![](pictures/run2-02.png)
+
+## Сообщения об ошибках
+{:.fullscreen .xxx}
+
+![](pictures/run2-03.png)
+
+## Сообщения об ошибках
+{:.fullscreen .xxx}
+
+![](pictures/run2-04.png)
+
+## =====================
+{:.section}
 
 ## Ошибка в тайпингах
 {:.fullscreen .xxx}
