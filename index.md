@@ -125,51 +125,19 @@ style: |
 ![](pictures/preview2-05.png)
 
 
+## SELECTORS
+{:.fullscreen .xxx}
+
+![](pictures/preview2-06.png)
+
+
+## FIXED
+{:.fullscreen .xxx}
+
+![](pictures/preview2-07.png)
+
 ## =====================
 {:.section}
-
-## Ошибка в CSP
-{:.fullscreen .xxx}
-
-![](pictures/preview-02.png)
-
-## [Content Security Policy](https://developer.mozilla.org/ru/docs/Web/HTTP/CSP)
-{:.shout}
-
-## Ошибка в CSP
-{:.fullscreen .xxx}
-
-![](pictures/preview-03.png)
-
-## Неправильный путь
-{:.fullscreen .xxx}
-
-![](pictures/preview-04.png)
-
-## Неправильный путь
-{:.fullscreen .xxx}
-
-![](pictures/preview-05.png)
-
-## Неправильный путь
-{:.fullscreen .xxx}
-
-![](pictures/preview-06.png)
-
-## Ошибка в стилях
-{:.fullscreen .xxx}
-
-![](pictures/preview-07.png)
-
-## Ошибка в стилях
-{:.fullscreen .xxx}
-
-![](pictures/preview-08.png)
-
-## Ошибка в стилях
-{:.fullscreen .xxx}
-
-![](pictures/preview-09.png)
 
 ## Превью открывается два раза
 {:.fullscreen .xxx}
