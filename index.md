@@ -128,8 +128,12 @@ style: |
 ## SELECTORS
 {:.fullscreen .xxx}
 
-![](pictures/preview2-06.png)
+![](pictures/preview2-06-1.png)
 
+## SELECTORS
+{:.fullscreen .xxx}
+
+![](pictures/preview2-06-2.png)
 
 ## FIXED
 {:.fullscreen .xxx}
