@@ -156,13 +156,23 @@ style: |
 ## DEMO: Debugging<br/>Language Server
 {:.shout}
 
+## Ошибка парсинга JSON
+{:.fullscreen .xxx}
+
+![](pictures/linter2-01.png)
+
+## Ошибка парсинга JSON
+{:.fullscreen .xxx}
+
+![](pictures/linter2-01.png)
+
+## =====================
+{:.section}
+
 ## Пустой список ошибок
 {:.fullscreen .xxx}
 
 ![](pictures/linter-02.png)
-
-## =====================
-{:.section}
 
 ## Пустой список ошибок
 {:.fullscreen .xxx}
