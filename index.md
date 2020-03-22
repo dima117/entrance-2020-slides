@@ -86,38 +86,32 @@ style: |
 
 ![](pictures/run2-03.png)
 
-## Сообщения об ошибках
+## Запустилось!
 {:.fullscreen .xxx}
 
 ![](pictures/run2-04.png)
 
-## =====================
+## Чиним превью
 {:.section}
 
-## Ошибка в тайпингах
+## Regex
 {:.fullscreen .xxx}
 
-![](pictures/run-02.png)
+![](pictures/preview2-01.png)
 
-## Ошибка в тайпингах
+## Regex
 {:.fullscreen .xxx}
 
-![](pictures/run-03.png)
+![](pictures/preview2-02.png)
 
-## Menu item references a command<br/>'example.showPreviewToSide'<br/>which is not defined<br/>in the 'commands' section.
-{:.blockquote .yyy}
-
-## Неправильное название команды
+## Regex
 {:.fullscreen .xxx}
 
-![](pictures/run-04.png)
+![](pictures/preview2-03.png)
 
-## Запустилось!
-{:.fullscreen .xxx}
 
-![](pictures/run-05.png)
 
-## Чиним превью
+## =====================
 {:.section}
 
 ## Ошибка в CSP
