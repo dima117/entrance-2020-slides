@@ -140,24 +140,6 @@ style: |
 
 ![](pictures/preview2-07.png)
 
-## =====================
-{:.section}
-
-## Превью открывается два раза
-{:.fullscreen .xxx}
-
-![](pictures/preview-10.png)
-
-## Превью открывается два раза
-{:.fullscreen .xxx}
-
-![](pictures/preview-11.png)
-
-## Превью открывается два раза
-{:.fullscreen .xxx}
-
-![](pictures/preview-12.png)
-
 ## Превью работает, линтер не работает
 {:.fullscreen .xxx}
 
@@ -173,6 +155,9 @@ style: |
 
 ## DEMO: Debugging<br/>Language Server
 {:.shout}
+
+## =====================
+{:.section}
 
 ## Пустой список ошибок
 {:.fullscreen .xxx}
