@@ -164,10 +164,7 @@ style: |
 ## Ошибка парсинга JSON
 {:.fullscreen .xxx}
 
-![](pictures/linter2-01.png)
-
-## =====================
-{:.section}
+![](pictures/linter2-02.png)
 
 ## Пустой список ошибок
 {:.fullscreen .xxx}
@@ -193,6 +190,10 @@ style: |
 {:.fullscreen .xxx}
 
 ![](pictures/linter-06.png)
+
+## =====================
+{:.section}
+
 
 ## Не применяются настройки после обновления
 {:.fullscreen .xxx}
