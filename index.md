@@ -198,6 +198,17 @@ style: |
 
 ![](pictures/linter-06.png)
 
+## SEVERITY
+{:.fullscreen .xxx}
+
+![](pictures/severity-01.png)
+
+## SEVERITY
+{:.fullscreen .xxx}
+
+![](pictures/severity-02.png)
+
+
 ## Другие критерии
 {:.section}
 
@@ -222,6 +233,15 @@ style: |
 - vscode-nls
 
 </div>
+
+## Code style
+
+Мы добавили нарушения codestyle:
+
+- отступы
+- лишние пробелы и переносы строк
+- кавычки
+- точки с запятой
 
 ## Обоснованные решения
 
